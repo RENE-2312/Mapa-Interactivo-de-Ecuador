@@ -1,6 +1,6 @@
 # Mapa Interactivo de Ecuador
 
-Este repositorio muestra cómo visualizar y personalizar el mapa delh Ecuador utilizando la librería `highcharter` de R.
+Este repositorio muestra cómo visualizar y personalizar el mapa del Ecuador utilizando la librería `highcharter` de R.
 
 ## Personalización del Mapa
 
