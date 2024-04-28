@@ -18,3 +18,4 @@ Los gráficos generados pueden añadirse en informes elaborados con R Markdown o
 ## Recursos Adicionales
 
 Para explorar opciones de mapas, recomiendo revisar el repositorio de [Francisco Zambrano](https://github.com/zpio), [Mapa-Ecuador](https://github.com/zpio/Mapa-Ecuador), que ofrece una amplia variedad de mapas para Ecuador.
+@zpio
