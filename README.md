@@ -6,8 +6,8 @@ Este repositorio muestra cómo visualizar y personalizar el mapa delh Ecuador ut
 
 Las herramientas de personalización abordadas son:
 
-- `hc_tooltip:` Permite la inclusión de tablas y gráficos en la ventana emergente al pasar el cursor sobre el mapa.
-- `hc_drilldown:` Permite desplegar gráficos adicionales al hacer clic en una zona geográfica (provincia, cantón, parroquia).
+- `hc_tooltip`: Permite la inclusión de tablas y gráficos en la ventana emergente al pasar el cursor sobre el mapa.
+- `hc_drilldown`: Permite desplegar gráficos adicionales al hacer clic en una zona geográfica (provincia, cantón, parroquia).
   
 ## Importancia y Aplicaciones
 
