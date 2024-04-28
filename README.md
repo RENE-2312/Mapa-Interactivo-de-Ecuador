@@ -1,20 +1,20 @@
-# Mapa-Interactivo-de-Ecuador
+# Mapa Interactivo de Ecuador
 
-Este repositorio muestra cómo graficar información en el mapa de Ecuador utilizando la librería `highcharter` de R, concretamente, se centra en la personalización del mapa mediante las herramientas `hc_tooltip` y `hc_drilldown`.
+Este repositorio muestra cómo visualizar y personalizar el mapa de Ecuador utilizando la librería `highcharter` de R.
 
 ## Personalización del Mapa
 
-Las herramientas de personalización que se utilizan son:
+Las herramientas de personalización abordadas son:
 
-- `hc_tooltip:` Permite agregar tablas y gráficos en la ventana emergente que aparece al pasar el cursor sobre el mapa.
-- `hc_drilldown:` Despliega otro gráfico al hacer clic en una zona geográfica (Provincia, Cantón, Parroquia).
+- `hc_tooltip:` Permite la inclusión de tablas y gráficos en la ventana emergente al pasar el cursor sobre el mapa.
+- `hc_drilldown:` Permite desplegar gráficos adicionales al hacer clic en una zona geográfica (provincia, cantón, parroquia).
+- 
+## Importancia y Aplicaciones
+
+Estas herramientas pueden ayudar a ampliar el análisis de datos en el mapa, permitiendo desagregar la información y facilitar su comprensión. Además, se explorará cómo trabajar a diferentes niveles geográficos, como provincia, cantones y parroquias.
+
+Los gráficos generados pueden integrarse en informes elaborados con R Markdown o Quarto, así como en dashboards desarrollados con Shiny. Además, los códigos son adaptables para otros mapas de diferentes países y son una recopilación del curso de R impartido en abril de 2024 a través de la AsoiMat.
 
 ## Recursos Adicionales
 
-Para explorar opciones de mapas, recomiendo revisar el repositorio de [Francisco Zambrano](https://github.com/zpio), [Mapa-Ecuador](https://github.com/zpio/Mapa-Ecuador), donde encontrarás una amplia selección de mapas para Ecuador.
-
-## Importancia y Aplicaciones
-
-Estas herramientas de personalización pueden ayudar a complementar el análisis de la información presentada en el mapa debido a que permite desagregar los datos y tener un mejor entendimiento de la información abordada. Además, se explorará cómo trabajar a nivel de provincia, cantones y parroquias.
-
-Los gráficos generados pueden añadirse en informes elaborados con R Markdown o Quarto, así como en dashboards desarrollados con Shiny. Además, son replicables para otros mapas de diferentes países.
+Para explorar opciones de mapas, recomiendo revisar el repositorio de [Francisco Zambrano](https://github.com/zpio), [Mapa-Ecuador](https://github.com/zpio/Mapa-Ecuador), que ofrece una amplia variedad de mapas para Ecuador.
