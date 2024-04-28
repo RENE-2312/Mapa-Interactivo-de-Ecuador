@@ -1,6 +1,6 @@
 # Mapa Interactivo de Ecuador
 
-Este repositorio muestra cómo visualizar y personalizar el mapa de Ecuador utilizando la librería `highcharter` de R.
+Este repositorio muestra cómo visualizar y personalizar el mapa delh Ecuador utilizando la librería `highcharter` de R.
 
 ## Personalización del Mapa
 
@@ -13,7 +13,7 @@ Las herramientas de personalización abordadas son:
 
 Estas herramientas pueden ayudar a ampliar el análisis de datos en el mapa, permitiendo desagregar la información y facilitar su comprensión. Además, se explorará cómo trabajar a diferentes niveles geográficos, como provincia, cantones y parroquias.
 
-Los gráficos generados pueden integrarse en informes elaborados con R Markdown o Quarto, así como en dashboards desarrollados con Shiny. Además, los códigos son adaptables para otros mapas de diferentes países y son una recopilación del curso de R impartido en abril de 2024 a través de la AsoiMat.
+Los gráficos generados pueden añadirse en informes elaborados con R Markdown o Quarto, así como en dashboards desarrollados con Shiny. Además, los códigos son adaptables para otros mapas de diferentes países y son una recopilación del curso de R impartido en abril de 2024 a través de la AsoiMat.
 
 ## Recursos Adicionales
 
