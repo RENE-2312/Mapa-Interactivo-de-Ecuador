@@ -86,7 +86,7 @@ highchart(type = 'map') %>%
     )%>%
   hc_plotOptions(map = list(states = list(hover = list(color = '#FFFFFF')))) %>%
   hc_colorAxis(stops = color_stops(5, c("#FF69B4", "#800080")))%>% 
-  hc_mapNavigation(enabled = TRUE)%>%
+  # hc_mapNavigation(enabled = TRUE)%>%
   hc_add_theme(hc_theme_smpl()) %>% 
   hc_title(text = "Estadísticas del Sistema de Pensiones") %>%
   hc_subtitle(text = "Afiliados <br> Año 2022") %>% 
@@ -149,14 +149,13 @@ highchart(type = 'map') %>%
     )%>%
   hc_plotOptions(map = list(states = list(hover = list(color = '#FFFFFF')))) %>%
   hc_colorAxis(stops = color_stops(5, c("#FF69B4", "#800080")))%>% 
-  hc_mapNavigation(enabled = TRUE)%>% 
+  # hc_mapNavigation(enabled = TRUE)%>% 
   hc_add_theme(hc_theme_smpl()) %>% 
   hc_title(text = "Estadísticas del Sistema de Pensiones") %>%
   hc_subtitle(text = "Afiliados <br> Año 2022") %>% 
   hc_legend(layout= 'vertical',
             align= 'right',
             verticalAlign= 'bottom')%>% 
-  hc_mapNavigation(enabled = TRUE)%>% 
   hc_caption(text = "Boletín Estadístico <br> IESS - DAIE",
              useHTML = TRUE, 
              align = "left", 
