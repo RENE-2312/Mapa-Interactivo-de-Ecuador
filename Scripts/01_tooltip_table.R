@@ -100,7 +100,7 @@ mapa_afiliados
 style <- "background-color: #b3e5fc; border-top: 1px solid black; border-bottom: 1px solid black;" # Estilo CSS para la tabla
 tt <- tooltip_table(# Con tooltip_table se crea una tabla en lenguaje HTML
   x = c("Provincia", "Afiliados SSC", "Afiliados SGO","Afiliados TNRH","Afiliados Totales"),
-  y = c("{point.Provincia}", "{point.A_SSC}", "{point.A_CSDependencia}", "{point.A_TNRH}", "{point.value}"), 
+  y = c("{point.Provincia}", "{point.A_SSC:,.0f}", "{point.A_CSDependencia:,.0f}", "{point.A_TNRH:,.0f}", "{point.value:,.0f}"), 
   style = style
 )
 
@@ -128,19 +128,19 @@ tt <- str_c(
   "  </tr>\n",
   "  <tr style='border: 1px solid black;'>\n",
   "    <th style='border: 1px solid black; background-color: #b3e5fc;'>Afiliados SSC</th>\n",
-  "    <td style='border: 1px solid black;'>{point.A_SSC}</td>\n",
+  "    <td style='border: 1px solid black;'>{point.A_SSC:,.0f}</td>\n",
   "  </tr>\n",
   "  <tr style='border: 1px solid black;'>\n",
   "    <th style='border: 1px solid black; background-color: #b3e5fc;'>Afiliados SGO</th>\n",
-  "    <td style='border: 1px solid black;'>{point.A_CSDependencia}</td>\n",
+  "    <td style='border: 1px solid black;'>{point.A_CSDependencia:,.0f}</td>\n",
   "  </tr>\n",
   "  <tr style='border: 1px solid black;'>\n",
   "    <th style='border: 1px solid black; background-color: #b3e5fc;'>Afiliados TNRH</th>\n",
-  "    <td style='border: 1px solid black;'>{point.A_TNRH}</td>\n",
+  "    <td style='border: 1px solid black;'>{point.A_TNRH:,.0f}</td>\n",
   "  </tr>\n",
   "  <tr style='border: 1px solid black;'>\n",
   "    <th style='border: 1px solid black; background-color: #b3e5fc;'>Afiliados Totales</th>\n",
-  "    <td style='border: 1px solid black;'>{point.value}</td>\n",
+  "    <td style='border: 1px solid black;'>{point.value:,.0f}</td>\n",
   "  </tr>\n",
   "</table>"
 )
