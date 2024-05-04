@@ -86,7 +86,7 @@ afiliados_tool <- afiliados_tool %>%
 # valores de la base de datos, estos se extraen utilizando la función glue.
 
 # #~~~ Ejemplo: tooltip_table
-# # Creamos la tabla usando tooltip_table, descomente este codigo y corralo, lo demás sigue igual 
+# # Creamos la tabla usando tooltip_table, descomente este código y corralo, lo demás sigue igual 
 # x <- c("Provincia", "Total_Afiliados")
 # y <- str_c("{point.", x, "}")
 # x <- str_replace_all(x, "_", " ")
