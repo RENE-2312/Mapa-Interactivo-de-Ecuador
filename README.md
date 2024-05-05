@@ -8,7 +8,10 @@ Este repositorio aborda las siguientes herramientas de personalización:
 
 - `hc_tooltip`: Permite incluir tablas y gráficos en la ventana emergente al pasar el cursor sobre el mapa.
 - `hc_drilldown`: Permite desplegar gráficos adicionales al hacer clic en una zona geográfica (provincia, cantón, parroquia).
-  
+## Ejemplos
+
+https://github.com/RENE-2312/Mapa-Interactivo-de-Ecuador/assets/157751389/8926ef65-6ad1-499e-8971-f641cf779eca
+
 ## Importancia y Aplicaciones
 
 Estas herramientas ayudan a ampliar el análisis de datos en el mapa, permitiendo desagregar la información y facilitar su comprensión. Además, se explora cómo trabajar a diferentes niveles geográficos, como provincia, cantones y parroquias.
@@ -18,6 +21,4 @@ Los gráficos generados pueden añadirse en informes elaborados con R Markdown o
 ## Recursos Adicionales
 
 Para explorar opciones de mapas, recomiendo revisar el repositorio de [Francisco Zambrano](https://github.com/zpio), [Mapa-Ecuador](https://github.com/zpio/Mapa-Ecuador), que ofrece una amplia variedad de mapas para Ecuador.
-
-![Rotating_earth_(large)](https://github.com/RENE-2312/Mapa-Interactivo-de-Ecuador/assets/157751389/a000a22f-937c-4f75-a730-9d3c73001192)
 
