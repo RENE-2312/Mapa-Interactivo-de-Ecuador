@@ -34,12 +34,12 @@ Esta carpeta alberga las bases de datos, tanto estadísticas como geoespaciales.
 
 Esta carpeta contiene los siguientes scripts:
 
-1. `01_tooltip_table.R`: Agrega una tabla en la ventana emergente al pasar el cursor sobre el mapa.
-2. `02_tooltip_chart.R`: Agrega un gráfico en la ventana emergente al pasar el cursor sobre el mapa.
-3. `03_tooltip chart & table.R`: Agrega un gráfico y una tabla en la ventana emergente al pasar el cursor sobre el mapa.
-4. `04_hc_drilldown_otros.R`: Despliega otro gráfico (no mapa) al hacer clic en el gráfico principal.
-5. `05_hc_drilldown_cantones.R`: Despliega otro gráfico (mapa) al hacer clic en el gráfico principal.
-6. `06_shp_cantones_parroquias.R`: Trabaja con mapas a nivel provincial, cantonal y parroquial.
+- `01_tooltip_table.R`: Agrega una tabla en la ventana emergente al pasar el cursor sobre el mapa.
+- `02_tooltip_chart.R`: Agrega un gráfico en la ventana emergente al pasar el cursor sobre el mapa.
+- `03_tooltip chart & table.R`: Agrega un gráfico y una tabla en la ventana emergente al pasar el cursor sobre el mapa.
+- `04_hc_drilldown_otros.R`: Despliega otro gráfico (no mapa) al hacer clic en el gráfico principal.
+- `05_hc_drilldown_cantones.R`: Despliega otro gráfico (mapa) al hacer clic en el gráfico principal.
+- `06_shp_cantones_parroquias.R`: Trabaja con mapas a nivel provincial, cantonal y parroquial.
 
 ## Recursos Adicionales
 
