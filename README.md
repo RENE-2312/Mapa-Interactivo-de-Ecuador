@@ -26,9 +26,9 @@ La estructura del repositorio es la siguiente:
 ### BDD
 
 Esta carpeta alberga las bases de datos, tanto estadísticas como geoespaciales. El archivo Excel, *IESS_DAIE_capitulo_asegurados_bol_2022.xlsx*, es parte del boletín estadístico producido por la Dirección Actuarial, de Investigación y Estadística (DAIE) del Instituto Ecuatoriano de Seguridad Social (IESS) para el año 2022. Por otro lado, los conjuntos de datos geoespaciales se obtuvieron de diversas fuentes:
-- *ec-all.geo.json*: Proviene del repositorio [Mapa-Ecuador](https://github.com/zpio/Mapa-Ecuador) creado por [Francisco Zambrano](https://github.com/zpio).
-- *cantones-ecuador.geojson*: Fue obtenido del [repositorio](https://gist.github.com/emamut/25912e117ab46fa00a63c6e890575201) de [Faber Vergara](https://gist.github.com/emamut).
-- *SHP*: Se descargó del [Geoportal INEC](https://www.ecuadorencifras.gob.ec/documentos/web-inec/Geografia_Estadistica/Micrositio_geoportal/index.html#geografia_estad) para el año 2012.
+- *ec-all.geo.json*: Proviene del repositorio [Mapa-Ecuador](https://github.com/zpio/Mapa-Ecuador) creado por [Francisco Zambrano](https://github.com/zpio){target="_blank"}.
+- *cantones-ecuador.geojson*: Fue obtenido del [repositorio](https://gist.github.com/emamut/25912e117ab46fa00a63c6e890575201) de [Faber Vergara](https://gist.github.com/emamut){target="_blank"}.
+- *SHP*: Se descargó del [Geoportal INEC](https://www.ecuadorencifras.gob.ec/documentos/web-inec/Geografia_Estadistica/Micrositio_geoportal/index.html#geografia_estad){target="_blank"} para el año 2012.
 
 ### Scripts
 
