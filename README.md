@@ -43,7 +43,7 @@ Esta carpeta contiene los siguientes scripts:
 
 ## Recursos Adicionales
 
-Para explorar diferentes opciones de mapas, te sugiero revisar el repositorio de [Francisco Zambrano](https://github.com/zpio), [Mapa-Ecuador](https://github.com/zpio/Mapa-Ecuador), que ofrece una amplia variedad de mapas para Ecuador. Además, los códigos para los gráficos de drilldown fueron desarrollados basándome en el código descrito por [Nahuel Bargas](https://github.com/NahuelBargas) en el siguiente [enlace](https://github.com/jbkunst/highcharter/issues/507).
+Para explorar diferentes opciones de mapas, te sugiero revisar el repositorio de [Francisco Zambrano](https://github.com/zpio), [Mapa-Ecuador](https://github.com/zpio/Mapa-Ecuador), que ofrece una amplia variedad de mapas. Además, los códigos para los gráficos de drilldown fueron desarrollados basándome en el código descrito por [Nahuel Bargas](https://github.com/NahuelBargas) en el siguiente [enlace](https://github.com/jbkunst/highcharter/issues/507).
 
 ## Contacto
 
